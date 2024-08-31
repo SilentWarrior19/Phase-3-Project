@@ -1,8 +1,8 @@
-###1. Business Problem Overview
+1. Business Problem Overview
 ![alt text](<26 Nice And Efficient Office Buildings Architecture-1.jpeg>)
 SyriaTel, a telecommunications company, is experiencing customer churn, which is when customers stop using the company’s services. Customer churn is a significant issue as acquiring new customers is often more expensive than retaining existing ones. Therefore, predicting which customers are likely to churn ("soon" stop doing business) can help SyriaTel take proactive measures to retain these customers, thereby reducing churn rates and associated revenue loss.
 
-###2. Objective
+2. Objective
 The primary objective of this project is to build a binary classification model to predict whether a customer will stop using SyriaTel's services in the near future. By identifying customers at risk of churning, SyriaTel can implement targeted retention strategies to maintain its customer base and minimize revenue loss.
 
 3. Key Business Questions
