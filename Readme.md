@@ -46,4 +46,6 @@ By knowing which customers are likely to leave, SyriaTel can offer targeted prom
 
 **Based on these results, the Decision Tree model seems to better predict churn rate aamong SyriaTel`s customers as it does a better job at predicting churn rate based on accuracy score and precision**
 
-**
+**Customers who incur high total day charges, make many customer service calls and have a high total evening charge are most likely to stop using SyriaTel`s Services.**
+
+**The company should prioritise lowering their day charges through probably offering discounts during day time hours, ensuring customer queries are sorted in a first and timely manner and also lowering evening charges to retain customers and reduce the churn rate among their customers**
