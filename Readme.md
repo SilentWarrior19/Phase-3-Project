@@ -35,10 +35,13 @@ By knowing which customers are likely to leave, SyriaTel can offer targeted prom
 
 # 5. Key Metrics for Success
 
-**Churn Rate**: The percentage of customers who stop using SyriaTel's services within a given time period.
 
 **Model Accuracy**: The ability of the predictive model to correctly classify customers as churn or non-churn.
 
 **Precision and Recall**: Precision measures the accuracy of predicting churn among all churn predictions, while recall measures how many actual churners were correctly predicted.
 
-**Customer Retention Rate**: The percentage of existing customers who continue to use SyriaTel's services over a specific period.
+# 6. Findings and Recommendations
+
+**The Decision Tree model outperforms the Logistic Regression model in terms of;  accuracy where it has a higher accuracy of 87% indicating it performs better overall in correctly classifying instances in the training set, precision score of 59% meaning it is more reliable in terms of the proportion of predicted positives that are truly positive compared to the logistic regression model. The logistic regression model though does have a slightly higher recall, indicating it identifies a slightly higher proportion of actual positives. However, the difference is not significant.**
+
+**Based on these results, the Decision Tree model seems to better predict churn rate aamong SyriaTel`s customers as it does a better job at predicting churn rate based on accuracy score and precision**
